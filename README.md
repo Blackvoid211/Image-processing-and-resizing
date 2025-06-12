@@ -1,4 +1,4 @@
 # Image-processing-and-resizing
-pymupdf
-python--3.9 and above
+pymupdf<br>
+python--3.9 and above<br>
 tkinter(Comes pre-installed with Python)
